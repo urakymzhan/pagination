@@ -1,4 +1,4 @@
 ## pagination
 image pagination app - react
 
-![mainpage](public/main.png)
+![mainpage](public/mainpage.png)
